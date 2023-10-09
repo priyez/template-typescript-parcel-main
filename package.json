@@ -1,0 +1,28 @@
+{
+  "name": "Typescript Boiler Plate",
+  "version": "1.0.0",
+  "description": "A typescript boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm dist/bundle.js",
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "test": "jest"
+  },
+  "author": "Sopiriye Jamabo <sopiriyejamabo@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^8.1.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "jest": "^26.6.3",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.2.1",
+    "sass": "^1.32.8",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "gsap": "^3.12.2"
+  }
+}
