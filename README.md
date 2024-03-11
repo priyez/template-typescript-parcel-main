@@ -1,3 +1,3 @@
 ## A Typescript Playground
 
-Uses the Parcel JS Bundler to provide a scratchpad ecosystem for experimentation
+A typescript   currency inverter app with gsap
